@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashkumar530
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning using Python for ML
+- 👀 I’m interested in Financial Technology
+- 🌱 I’m currently learning using Java
 - 💞️ I’m looking to collaborate on any project to enhance my learning!
 - 📫 How to reach me: My email is yash.kumar34115@gmail.com
 
